@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hi there, I'm Eduardo Cedillo 👋
 
-<!--
-**eacm-odoo/eacm-odoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m an Odoo-focused functional and technical professional passionate about building practical solutions that improve business processes.
 
-Here are some ideas to get you started:
+I work on:
+- Odoo development and customization
+- Technical training and internal enablement
+- Process improvement and automation
+- Python-based business solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m interested in collaborating on:
+- Odoo implementations
+- API integrations
+- Custom modules
+- Functional + technical problem solving
+
+Ask me about:
+- Odoo
+- Python
+- ERP workflows
+- XML-RPC / API integrations
+- Technical training
+
+## Current Focus
+- Improving my Odoo development skills
+- Building practical automation projects
+- Learning more about scalable ERP solutions
+- Combining functional understanding with technical execution
+
+## Tech Stack
+- Python
+- Odoo
+- PostgreSQL
+- Git / GitHub
+- XML-RPC APIs
+- JavaScript
+
+## Featured Repositories
+Here are some of the projects on my profile:
+- `technical_training`
+- `psus-intern`
+- `addenda_automation`
+- `Testing_cloning`
+- `Training`
+
+## Fun Fact
+I enjoy turning complex ERP and technical topics into simple, useful solutions people can actually apply.
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eacm-odoo&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacm-odoo&layout=compact)
+
+---
+<!-- Profile README for eacm-odoo -->
