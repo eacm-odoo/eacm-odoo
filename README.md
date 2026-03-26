@@ -48,7 +48,17 @@ Here are some of the projects on my profile:
 I enjoy turning complex ERP and technical topics into simple, useful solutions people can actually apply.
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eacm-odoo&show_icons=true)
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=eacm-odoo" alt="Profile Details"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/eacm-odoo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eacm-odoo&theme=radical" alt="Profile Details"/>
+</a>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eacm-odoo&layout=compact)
 
